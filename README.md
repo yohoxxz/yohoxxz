@@ -1,7 +1,7 @@
 # 👋 Hey, I’m @Noah Becker  
 
-- 👀 **Exploring:** Web Design, Creative Projects, and Minimalist UX  
-- 🌱 **Currently Learning:** Advanced CSS Animations & JavaScript Frameworks  
+- 👀 **Exploring:** Web Design, Minimalism  
+- 🌱 **Currently Learning:** HTML5, CSS & JavaScript  
 - 💻 **My Website:** [noahbecker.xyz](https://noahbecker.xyz)  
 - 💞️ **Open to Collaborate On:** Web design projects and front-end experiments  
 - 📫 **Reach Me:** [noahbecker.xyz/contact](https://noahbecker.xyz/contact)  
