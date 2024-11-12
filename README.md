@@ -1,6 +1,6 @@
 
-- **Currently Learning:** HTML5, CSS, and JavaScript
-- **yohoxxz@gmail.com**  
+- **Currently Learning:** HTML5, CSS, JavaScript and a little bit of Python.
+- **noahbecker.xyz**  
 
 
 
