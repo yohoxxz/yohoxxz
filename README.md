@@ -1,5 +1,5 @@
 
-- **Currently Learning:** HTML5, CSS, JavaScript and a little bit of Python.
+- **Currently Learning:** HTML5, CSS, and learning JavaScript.
 - Contact me on my website: **noahbecker.xyz**  
 
 
