@@ -1,2 +1,2 @@
-- **🌱 Currently Learning:** HTML5, CSS, and JavaScript.  
+- **🌱 Currently Learning:** HTML, CSS, and JavaScript.  
 - **📬 Contact:** ab.yz on discord  
