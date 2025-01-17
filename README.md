@@ -4,26 +4,41 @@ web dev...
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<div style="text-align: center; background-color: #1e1e1e; padding: 10px; border-radius: 8px; width: 100%; color: #ffffff;">
-    <a href="https://octo-ring.com/" style="text-decoration: none;">
-        <img src="https://octo-ring.com/static/img/widget/top.png" width="100%" alt="Octo Ring logo" style="filter: brightness(0.8); margin-bottom: 10px; border-radius: 5px;">
-    </a>
-    <div style="display: flex; justify-content: space-between; gap: 5px; margin-bottom: 10px;">
+<table style="width:100%; background-color:#1e1e2f; border-radius:8px; padding:10px; font-family:Arial, sans-serif; text-align:center; color:#ffffff;">
+  <tbody>
+    <tr>
+      <td>
+        <!-- Top Logo -->
+        <a href="https://octo-ring.com/">
+          <img src="https://octo-ring.com/static/img/widget/top.png" width="80%" alt="Octo Ring logo" style="filter:invert(1); margin-bottom:10px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Navigation Buttons -->
         <a href="https://octo-ring.com/p/yohoxxz/prev">
-            <img src="https://octo-ring.com/static/img/widget/prev.png" width="100%" alt="previous" title="Previous profile" style="filter: brightness(0.8); border-radius: 5px;">
+          <img src="https://octo-ring.com/static/img/widget/prev.png" width="30%" alt="previous" title="Previous Profile" style="filter:invert(1); margin:0 5px;">
         </a>
         <a href="https://octo-ring.com/p/yohoxxz/random">
-            <img src="https://octo-ring.com/static/img/widget/random.png" width="100%" alt="random" title="Random profile" style="filter: brightness(0.8); border-radius: 5px;">
+          <img src="https://octo-ring.com/static/img/widget/random.png" width="30%" alt="random" title="Random Profile" style="filter:invert(1); margin:0 5px;">
         </a>
         <a href="https://octo-ring.com/p/yohoxxz/next">
-            <img src="https://octo-ring.com/static/img/widget/next.png" width="100%" alt="next" title="Next profile" style="filter: brightness(0.8); border-radius: 5px;">
+          <img src="https://octo-ring.com/static/img/widget/next.png" width="30%" alt="next" title="Next Profile" style="filter:invert(1); margin:0 5px;">
         </a>
-    </div>
-    <a href="https://octo-ring.com/" style="text-decoration: none; color: #ffffff;">
-        <img src="https://octo-ring.com/static/img/widget/bottom.png" width="100%" alt="Explore more profiles" style="filter: brightness(0.8); border-radius: 5px;">
-        <div style="font-size: 12px; margin-top: 5px;">Explore other GitHub profiles in the Octo Ring</div>
-    </a>
-</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Bottom Text -->
+        <a href="https://octo-ring.com/" style="text-decoration:none; color:#8a8a8a; font-size:12px; margin-top:10px; display:inline-block;">
+          Check out other GitHub profiles in the Octo Ring
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yohoxxz&color=black)
