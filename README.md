@@ -5,4 +5,4 @@ web dev...
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=yohoxxz&color=purple)
+![View Counter](https://githubviews-counter.com/yohoxxz/yohoxxz)
